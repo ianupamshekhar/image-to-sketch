@@ -1,2 +1,2 @@
 # image-to-sketch
-py script for converting Image to Pencil Sketch 
+A simple script written in Python for converting an image to a pencil sketch.
